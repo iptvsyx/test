@@ -33,9 +33,9 @@ http://itv.ahau.edu.cn/hls/cctv14hd.m3u8
 http://itv.ahau.edu.cn/hls/cctv15hd.m3u8
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-language="Chinese;Mandarin Chinese" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml" group-title="央视频道",CCTV-17 农业农村
 http://itv.ahau.edu.cn/hls/cctv17hd.m3u8
-#EXTINF:-1 tvg-id="18" tvg-name="CGTN" tvg-language="English;American English" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CGTN.png" tvg-country="EN" tvg-url="http://epg.51zmt.top:8000/e.xml" group-title="央视频道",CGTN
+#EXTINF:-1 tvg-id="18" tvg-name="CGTN" tvg-language="English;American English" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" tvg-country="EN" tvg-url="http://epg.51zmt.top:8000/e.xml" group-title="央视频道",CGTN
 http://itv.ahau.edu.cn/hls/hls67a43.m3u8
-#EXTINF:-1 tvg-id="19" tvg-name="CCTV4K" tvg-language="Chinese;Mandarin Chinese" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4K.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml" group-title="央视频道",CCTV4K
+#EXTINF:-1 tvg-id="19" tvg-name="CCTV4K" tvg-language="Chinese;Mandarin Chinese" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml" group-title="央视频道",CCTV4K
 http://itv.ahau.edu.cn/PLTV/88888888/224/3221226758/1.m3u8
 #EXTINF:-1 tvg-id="20" tvg-name="湖南卫视" tvg-language="Chinese;Mandarin Chinese" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml" group-title="卫视频道",湖南卫视
 http://itv.ahau.edu.cn/hls/hunanhd.m3u8
