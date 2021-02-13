@@ -22,7 +22,7 @@ http://itv.ahau.edu.cn/hls/cctv9hd.m3u8
 #EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-language="Chinese;Mandarin Chinese" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml" group-title="央视频道",CCTV-10 科教
 http://itv.ahau.edu.cn/hls/cctv10hd.m3u8
 #EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-language="Chinese;Mandarin Chinese" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml" group-title="央视频道",CCTV-11 戏曲
-http://itv.ahau.edu.cn/hls/cctv11hd.m3u8
+http://itv.ahau.edu.cn/hls/jlu_cctv11hd.m3u8
 #EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-language="Chinese;Mandarin Chinese" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml" group-title="央视频道",CCTV-12 社会与法
 http://itv.ahau.edu.cn/hls/cctv12hd.m3u8
 #EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-language="Chinese;Mandarin Chinese" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml" group-title="央视频道",CCTV-13 新闻
