@@ -115,21 +115,21 @@ http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001302/index.m3
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002275/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-language="Chinese;Mandarin Chinese" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml" group-title="港台频道",凤凰卫视资讯台
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002187/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 tvg-id="1000" tvg-name="陕西资讯" tvg-language="Chinese;Mandarin Chinese" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml" group-title="地方频道",陕西资讯
+#EXTINF:-1 tvg-id="1000" tvg-name="陕西资讯" tvg-language="Chinese;Mandarin Chinese" tvg-country="CN" group-title="地方频道",陕西资讯
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001719/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 tvg-id="1001" tvg-name="陕西都市" tvg-language="Chinese;Mandarin Chinese" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml" group-title="地方频道",陕西都市
+#EXTINF:-1 tvg-id="1001" tvg-name="陕西都市" tvg-language="Chinese;Mandarin Chinese" tvg-country="CN" group-title="地方频道",陕西都市
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001593/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 tvg-id="1002" tvg-name="陕西生活" tvg-language="Chinese;Mandarin Chinese" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml" group-title="地方频道",陕西生活
+#EXTINF:-1 tvg-id="1002" tvg-name="陕西生活" tvg-language="Chinese;Mandarin Chinese" tvg-country="CN" group-title="地方频道",陕西生活
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001729/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 tvg-id="1003" tvg-name="陕西影视" tvg-language="Chinese;Mandarin Chinese" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml" group-title="地方频道",陕西影视
+#EXTINF:-1 tvg-id="1003" tvg-name="陕西影视" tvg-language="Chinese;Mandarin Chinese" tvg-country="CN" group-title="地方频道",陕西影视
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001730/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 tvg-id="1004" tvg-name="陕西公共" tvg-language="Chinese;Mandarin Chinese" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml" group-title="地方频道",陕西公共
+#EXTINF:-1 tvg-id="1004" tvg-name="陕西公共" tvg-language="Chinese;Mandarin Chinese" tvg-country="CN" group-title="地方频道",陕西公共
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001739/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 tvg-id="1005" tvg-name="陕西购物" tvg-language="Chinese;Mandarin Chinese" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml" group-title="地方频道",陕西购物
+#EXTINF:-1 tvg-id="1005" tvg-name="陕西购物" tvg-language="Chinese;Mandarin Chinese" tvg-country="CN" group-title="地方频道",陕西购物
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001759/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 tvg-id="1006" tvg-name="陕西体育" tvg-language="Chinese;Mandarin Chinese" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml" group-title="地方频道",陕西体育
+#EXTINF:-1 tvg-id="1006" tvg-name="陕西体育" tvg-language="Chinese;Mandarin Chinese" tvg-country="CN" group-title="地方频道",陕西体育
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001594/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 tvg-id="1007" tvg-name="陕西电影" tvg-language="Chinese;Mandarin Chinese" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml" group-title="地方频道",陕西电影
+#EXTINF:-1 tvg-id="1007" tvg-name="陕西电影" tvg-language="Chinese;Mandarin Chinese" tvg-country="CN" group-title="地方频道",陕西电影
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001749/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="1007" tvg-name="商洛电视" tvg-language="Chinese;Mandarin Chinese" tvg-country="CN" group-title="地方频道",商洛电视
-http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001749/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001734/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
