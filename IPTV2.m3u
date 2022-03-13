@@ -52,7 +52,7 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225803/index.m3u8
 #EXTINF:-1 tvg-id="30" tvg-name="深圳卫视" tvg-language="Chinese;Mandarin Chinese" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml" group-title="卫视频道",深圳卫视
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225801/index.m3u8
 #EXTINF:-1 tvg-id="31" tvg-name="辽宁卫视" tvg-language="Chinese;Mandarin Chinese" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml" group-title="卫视频道",辽宁卫视
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225796/index.m3u8
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226201/index.m3u8
 #EXTINF:-1 tvg-id="32" tvg-name="海南卫视" tvg-language="Chinese;Mandarin Chinese" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hainan.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml" group-title="卫视频道",海南卫视
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225769/index.m3u8
 #EXTINF:-1 tvg-id="33" tvg-name="山东卫视" tvg-language="Chinese;Mandarin Chinese" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml" group-title="卫视频道",山东卫视
