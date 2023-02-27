@@ -129,21 +129,33 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226362/index.m3u8
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226363/index.m3u8
 #EXTINF:-1 tvg-id="1007" tvg-name="陕西电影" tvg-language="Chinese;Mandarin Chinese" tvg-country="CN" group-title="地方频道",陕西电影
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226364/index.m3u8
-#EXTINF:-1 tvg-id="1008" tvg-name="商洛电视" tvg-language="Chinese;Mandarin Chinese" tvg-country="CN" group-title="地方频道",商洛电视
+#EXTINF:-1 tvg-id="1008" tvg-name="西安综合" tvg-language="Chinese;Mandarin Chinese" tvg-country="CN" group-title="地方频道",西安综合
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226366/index.m3u8
+#EXTINF:-1 tvg-id="1009" tvg-name="西安城市" tvg-language="Chinese;Mandarin Chinese" tvg-country="CN" group-title="地方频道",西安城市
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226367/index.m3u8
+#EXTINF:-1 tvg-id="1010" tvg-name="西安资讯" tvg-language="Chinese;Mandarin Chinese" tvg-country="CN" group-title="地方频道",西安资讯
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226368/index.m3u8
+#EXTINF:-1 tvg-id="1011" tvg-name="西安影视" tvg-language="Chinese;Mandarin Chinese" tvg-country="CN" group-title="地方频道",西安影视
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226369/index.m3u8
+#EXTINF:-1 tvg-id="1012" tvg-name="西安丝路" tvg-language="Chinese;Mandarin Chinese" tvg-country="CN" group-title="地方频道",西安丝路
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226370/index.m3u8
+#EXTINF:-1 tvg-id="1013" tvg-name="西安教育" tvg-language="Chinese;Mandarin Chinese" tvg-country="CN" group-title="地方频道",西安教育
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226371/index.m3u8
+#EXTINF:-1 tvg-id="1014" tvg-name="商洛电视" tvg-language="Chinese;Mandarin Chinese" tvg-country="CN" group-title="地方频道",商洛电视
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226378/index.m3u8
-#EXTINF:-1 tvg-id="1009" tvg-name="山阳影视" tvg-language="Chinese;Mandarin Chinese" tvg-country="CN" group-title="地方频道",山阳影视
+#EXTINF:-1 tvg-id="1015" tvg-name="山阳影视" tvg-language="Chinese;Mandarin Chinese" tvg-country="CN" group-title="地方频道",山阳影视
 http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225951/index.m3u8
-#EXTINF:-1 tvg-id="1010" tvg-name="山阳新闻" tvg-language="Chinese;Mandarin Chinese" tvg-country="CN" group-title="地方频道",山阳新闻
+#EXTINF:-1 tvg-id="1016" tvg-name="山阳新闻" tvg-language="Chinese;Mandarin Chinese" tvg-country="CN" group-title="地方频道",山阳新闻
 http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225950/index.m3u8
-#EXTINF:-1 tvg-id="1011" tvg-name="商州融媒" tvg-language="Chinese;Mandarin Chinese" tvg-country="CN" group-title="地方频道",商州融媒
+#EXTINF:-1 tvg-id="1017" tvg-name="商州融媒" tvg-language="Chinese;Mandarin Chinese" tvg-country="CN" group-title="地方频道",商州融媒
 http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225875/index.m3u8
-#EXTINF:-1 tvg-id="1012" tvg-name="洛南电视" tvg-language="Chinese;Mandarin Chinese" tvg-country="CN" group-title="地方频道",洛南电视
+#EXTINF:-1 tvg-id="1018" tvg-name="洛南电视" tvg-language="Chinese;Mandarin Chinese" tvg-country="CN" group-title="地方频道",洛南电视
 http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225949/index.m3u8
-#EXTINF:-1 tvg-id="1013" tvg-name="丹凤电视" tvg-language="Chinese;Mandarin Chinese" tvg-country="CN" group-title="地方频道",丹凤电视
+#EXTINF:-1 tvg-id="1019" tvg-name="丹凤电视" tvg-language="Chinese;Mandarin Chinese" tvg-country="CN" group-title="地方频道",丹凤电视
 http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225952/index.m3u8
-#EXTINF:-1 tvg-id="1014" tvg-name="镇安综合" tvg-language="Chinese;Mandarin Chinese" tvg-country="CN" group-title="地方频道",镇安综合
+#EXTINF:-1 tvg-id="1020" tvg-name="镇安综合" tvg-language="Chinese;Mandarin Chinese" tvg-country="CN" group-title="地方频道",镇安综合
 http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225876/index.m3u8
-#EXTINF:-1 tvg-id="1015" tvg-name="商南电视" tvg-language="Chinese;Mandarin Chinese" tvg-country="CN" group-title="地方频道",商南电视
+#EXTINF:-1 tvg-id="1021" tvg-name="商南电视" tvg-language="Chinese;Mandarin Chinese" tvg-country="CN" group-title="地方频道",商南电视
 http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225953/index.m3u8
-#EXTINF:-1 tvg-id="1016" tvg-name="柞水电视" tvg-language="Chinese;Mandarin Chinese" tvg-country="CN" group-title="地方频道",柞水电视
+#EXTINF:-1 tvg-id="1022" tvg-name="柞水电视" tvg-language="Chinese;Mandarin Chinese" tvg-country="CN" group-title="地方频道",柞水电视
 http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225877/index.m3u8
