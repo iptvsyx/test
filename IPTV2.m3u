@@ -135,3 +135,15 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226378/index.m3u8
 http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225951/index.m3u8
 #EXTINF:-1 tvg-id="1010" tvg-name="山阳新闻" tvg-language="Chinese;Mandarin Chinese" tvg-country="CN" group-title="地方频道",山阳新闻
 http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225950/index.m3u8
+#EXTINF:-1 tvg-id="1011" tvg-name="商州融媒" tvg-language="Chinese;Mandarin Chinese" tvg-country="CN" group-title="地方频道",商州融媒
+http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225875/index.m3u8
+#EXTINF:-1 tvg-id="1012" tvg-name="洛南电视" tvg-language="Chinese;Mandarin Chinese" tvg-country="CN" group-title="地方频道",洛南电视
+http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225949/index.m3u8
+#EXTINF:-1 tvg-id="1013" tvg-name="丹凤电视" tvg-language="Chinese;Mandarin Chinese" tvg-country="CN" group-title="地方频道",丹凤电视
+http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225952/index.m3u8
+#EXTINF:-1 tvg-id="1014" tvg-name="镇安综合" tvg-language="Chinese;Mandarin Chinese" tvg-country="CN" group-title="地方频道",镇安综合
+http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225876/index.m3u8
+#EXTINF:-1 tvg-id="1015" tvg-name="商南电视" tvg-language="Chinese;Mandarin Chinese" tvg-country="CN" group-title="地方频道",商南电视
+http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225953/index.m3u8
+#EXTINF:-1 tvg-id="1016" tvg-name="柞水电视" tvg-language="Chinese;Mandarin Chinese" tvg-country="CN" group-title="地方频道",柞水电视
+http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225877/index.m3u8
