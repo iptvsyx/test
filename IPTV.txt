@@ -76,3 +76,9 @@ CCTV-17 农业农村,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/32212261
 商洛电视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226378/index.m3u8
 山阳影视,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225951/index.m3u8
 山阳新闻,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225950/index.m3u8
+商州融媒,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225875/index.m3u8
+洛南电视,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225949/index.m3u8
+丹凤电视,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225952/index.m3u8
+镇安综合,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225876/index.m3u8
+商南电视,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225953/index.m3u8
+柞水电视,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225877/index.m3u8
