@@ -88,7 +88,7 @@ http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001061/index.m3u8?
 #EXTINF:-1 tvg-id="54" tvg-name="山西卫视" tvg-language="Chinese;Mandarin Chinese" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi_.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml" group-title="卫视频道",山西卫视
 http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001038/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="55" tvg-name="陕西卫视" tvg-language="Chinese;Mandarin Chinese" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml" group-title="卫视频道",陕西卫视
-http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001597/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001062/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="56" tvg-name="四川卫视" tvg-language="Chinese;Mandarin Chinese" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml" group-title="卫视频道",四川卫视
 http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001036/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="57" tvg-name="新疆卫视" tvg-language="Chinese;Mandarin Chinese" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xinjiang.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml" group-title="卫视频道",新疆卫视
