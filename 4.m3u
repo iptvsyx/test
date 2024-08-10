@@ -12,7 +12,7 @@ http://43.141.10.233/bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2024078403.m3u8
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-language="Chinese;Mandarin Chinese" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml" group-title="央视频道",CCTV-5+ 体育赛事
 http://43.141.10.233/bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2024078003.m3u8
 #EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-language="Chinese;Mandarin Chinese" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml" group-title="央视频道",CCTV-6 电影
-http://43.141.10.233/bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2024086203.m3u8
+http://mobilelive-ds.ysp.cctv.cn/ysp/2013693901.m3u8
 #EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-language="Chinese;Mandarin Chinese" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml" group-title="央视频道",CCTV-7 军事
 http://43.141.10.233/bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2024072003.m3u8
 #EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-language="Chinese;Mandarin Chinese" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml" group-title="央视频道",CCTV-8 电视
