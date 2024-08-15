@@ -17,7 +17,7 @@ CCTV14 少儿,http://116.148.164.119/bkbktlivecloud-cdn.ysp.cctv.cn/ysp/20240791
 CCTV15 音乐,http://116.148.164.119/bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2024079203.m3u8
 CCTV16 奥林匹克,http://116.148.164.119/bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2024079303.m3u8
 CCTV17 农业农村,http://116.148.164.119/bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2024079503.m3u8
-卫视,,#genre#
+卫视,#genre#
 湖南卫视,http://116.148.164.119/bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2024054803.m3u8
 浙江卫视,http://116.148.164.119/bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2024054703.m3u8
 江苏卫视,http://116.148.164.119/bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2024171103.m3u8
