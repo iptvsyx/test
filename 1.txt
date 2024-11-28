@@ -54,9 +54,9 @@ CCTV17 农业农村,http://[2409:8087:1a0a:df::4031]/ottrrs.hl.chinamobile.com/P
 康巴卫视,http://[2409:8087:1a0a:df::4031]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225660/index.m3u8
 西藏卫视,http://[2409:8087:1a0a:df::4031]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226433/index.m3u8
 港台,#genre#
-凤凰卫视中文台,http://58.144.154.93/qctv.fengshows.cn/live/0701pcc72.m3u8
-凤凰卫视中文台,http://php.861686.xyz/fengshows.php?id=fhzw
-凤凰卫视资讯台,http://58.144.154.93/qctv.fengshows.cn/live/0701pin72.m3u8
-凤凰卫视资讯台,http://php.861686.xyz/fengshows.php?id=fhzx
-凤凰卫视香港台,http://58.144.154.93/qctv.fengshows.cn/live/0701phk72.m3u8
-凤凰卫视香港台,http://php.861686.xyz/fengshows.php?id=fhhk
+凤凰卫视中文台,http://203.205.220.174:80/qctv.fengshows.cn/live/0701pcc72.m3u8
+凤凰卫视中文台,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
+凤凰卫视资讯台,http://203.205.220.174:80/qctv.fengshows.cn/live/0701pin72.m3u8
+凤凰卫视资讯台,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
+凤凰卫视香港台,http://203.205.220.174:80/qctv.fengshows.cn/live/0701phk72.m3u8
+凤凰卫视香港台,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
