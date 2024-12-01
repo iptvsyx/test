@@ -106,8 +106,8 @@ http://[2409:8087:1a0a:df::4031]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322
 #EXTINF:-1 tvg-id="71" tvg-name="西藏卫视" tvg-language="Chinese;Mandarin Chinese" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xizang.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml" group-title="卫视频道",西藏卫视
 http://[2409:8087:1a0a:df::4031]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226433/index.m3u8
 #EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-language="Chinese;Mandarin Chinese" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml" group-title="港台频道",凤凰卫视中文台
-http://58.144.154.93/qctv.fengshows.cn/live/0701pcc72.m3u8
+http://203.205.220.174:80/qctv.fengshows.cn/live/0701pcc72.m3u8
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-language="Chinese;Mandarin Chinese" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml" group-title="港台频道",凤凰卫视资讯台
-http://58.144.154.93/qctv.fengshows.cn/live/0701pin72.m3u8
+http://203.205.220.174:80/qctv.fengshows.cn/live/0701pin72.m3u8
 #EXTINF:-1 tvg-id="143" tvg-name="凤凰香港" tvg-language="Chinese;Mandarin Chinese" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml" group-title="港台频道",凤凰卫视资讯台
-http://58.144.154.93/qctv.fengshows.cn/live/0701phk72.m3u8
+http://203.205.220.174:80/qctv.fengshows.cn/live/0701phk72.m3u8
