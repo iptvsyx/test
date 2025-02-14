@@ -47,6 +47,5 @@ CHC动作电影,http://live.nctv.top/IQRy0ip/migu.php?id=chcdzdy
 西藏卫视,http://live.nctv.top/IQRy0ip/migu.php?id=xzws
 海南卫视,http://live.nctv.top/IQRy0ip/migu.php?id=hinws
 港台,#genre#
-凤凰卫视中文台,http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
-凤凰卫视资讯台,http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
-凤凰卫视香港台,http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
+凤凰卫视中文台,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
+凤凰卫视资讯台,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
