@@ -72,6 +72,6 @@ CCTV风云音乐,http://www.xiaomo520.cn:4020/udp/239.252.219.87:5140
 厦门卫视,http://www.xiaomo520.cn:4020/udp/239.252.219.75:5140
 山东教育,http://www.xiaomo520.cn:4020/udp/239.252.219.74:5140
 港台,#genre#
-凤凰卫视中文台,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
-凤凰卫视资讯台,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
-凤凰卫视香港台,http://php.jdshipin.com/TVOD/iptv.php?id=fhxg
+凤凰卫视中文台,http://ali.hlspull.yximgs.com/live/qwt_fhzw.flv
+凤凰卫视资讯台,http://ali.hlspull.yximgs.com/live/qwt_fhzx.flv
+凤凰卫视香港台,http://ali.hlspull.yximgs.com/live/qwt_fhhk.flv
