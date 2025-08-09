@@ -33,6 +33,6 @@ CCTV17农村,https://mursor.ottiptv.cc/migu/673168256.m3u8?migutoken=4671310a52b
 农林卫视,https://mursor.ottiptv.cc/migu/956904896.m3u8?migutoken=099fafbbe2fcac29cc40be258691ca828c8bda013971bfbe801a00c28960ec0cea4839b45e271e8405d731158e23f5a62cb155406c104d2049de8319b82f155c9dff7af1948dbd357ea1e98343
 兵团卫视,https://mursor.ottiptv.cc/migu/956923145.m3u8?migutoken=3be33fcea1bddf67b19a5f25725dad8d5ba598f7738c50fdaca616f8b9fc7d12b859300bfd0a7f7c35bef766861445a17502f1029f70aaf939d44cfb9e9d3fe7855e926884cad0b86a1a75f0a2
 港台,#genre#
-凤凰卫视中文台,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
-凤凰卫视资讯台,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
-
+凤凰卫视中文台,http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd
+凤凰卫视资讯台,http://php.jdshipin.com:8880/smt.php?id=phoenixinfo_hd
+凤凰卫视香港台,http://php.jdshipin.com:8880/smt.php?id=hkphoenix_twn
